@@ -15,7 +15,7 @@ download & install git
 
 In einem leeren Verzeichnis im Terminal
 
- git clone https://github.com/pinkiestarman/CPlusPlusPraesentation.git
+``` git clone https://github.com/pinkiestarman/CPlusPlusPraesentation.git ```
 
 eingeben 
 
