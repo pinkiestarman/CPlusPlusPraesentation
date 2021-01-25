@@ -9,6 +9,7 @@
 
 ---
 * test
+----
 #### Überschrift 4
 zwei Leerzeichen am Ende der Zeile für  
 Zeilenumbruch  
