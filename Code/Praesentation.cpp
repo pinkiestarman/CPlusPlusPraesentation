@@ -4,6 +4,7 @@
 int main(int argc, char const *argv[])
 {
     /* code */
-    redszter;
+    int a = 4;
+    std::cout << a << std::endl;
     return 0;
 }
